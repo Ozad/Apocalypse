@@ -1,9 +1,9 @@
-# Apocalypse (CPSC 231 Group Project)
+# Apocalypse 
 
 Apocalypse is a simulataneous movement game based upon the rules of chess.
 [Rules of Apocalypse](https://en.wikipedia.org/wiki/Apocalypse_(chess_variant))
 
-# Status: Finished (12/19/15)
+Developed as a group of four, at the University of Calgary for an introductory to programming course.
 
 # Features
 
